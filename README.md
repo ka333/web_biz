@@ -1,2 +1,2 @@
 # web_biz
-Scrape event information
+Scrape event and store information 
